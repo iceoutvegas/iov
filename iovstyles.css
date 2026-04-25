@@ -1,5 +1,17 @@
 header { 
   background-color: rgb(91, 38, 38);
+  color: white;
 }
 
-/*.bigbutton {}*/
+a .bigbutton {
+    line-height:3;
+    font-size:20px;
+    padding:10px;
+    padding-right:30px;
+    padding-left:30px;
+    border: 4px outset rgb(91, 38, 38);
+    color:white;
+    background-color: rgb(0, 0, 0);
+    text-decoration:none;
+}
+
