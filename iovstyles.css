@@ -36,14 +36,6 @@ body {
 
 @keyframes swoop {
   0% {right:1000px;}
-  10% {right:500px}
-  20%  {right:200px}
-  30%  {right:100px}
-  40%  {right:50px}
-  50%  {right:25px}
-  60% {right:12px}
-  70% {right:6px}
-  80% {right:3px}
   100% {right:0px}
 }
 
@@ -51,4 +43,5 @@ body {
   position: relative;
   animation-name: swoop;
   animation-duration: 2s;
+  animation-timing-function:ease-out;
 } 
