@@ -35,7 +35,7 @@ body {
 }
 
 @keyframes swoop {
-  0% {right:200px;}
+  0% {right:300px;}
   10% {right:100px}
   20%  {right:50px}
   30%  {right:25px}
