@@ -43,7 +43,7 @@ body {
 }
 
 .iov {
-  animation-name:swoop;
+  animation:swoop;
   animation-duration:5s;
   position:relative;
 }
