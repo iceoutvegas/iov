@@ -28,5 +28,8 @@ header {
 body {
   background-color: rgb(57, 23, 23);
   color:white;
-  font-family: "Roboto Condensed";
+}
+
+.content {
+  font-family:"Roboto Condensed";
 }
