@@ -20,6 +20,10 @@ header {
     text-align:center;
 }
 
+.heading {
+    font-family: Oswald;
+}
+
 body {
   background-color: rgb(57, 23, 23);
 }
