@@ -35,11 +35,11 @@ body {
 }
 
 @keyframes swoop {
-  0%   {left:200px;}
-  25%  {left:100px}
-  50%  {left:50px}
-  75%  {left:35px}
-  100% {left:0px}
+  0%   {right:200px;}
+  25%  {right:100px}
+  50%  {right:50px}
+  75%  {right:35px}
+  100% {right:0px}
 }
 
 .iov {
