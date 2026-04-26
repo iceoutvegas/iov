@@ -33,3 +33,14 @@ body {
 .content {
   font-family:"Roboto Condensed";
 }
+
+@keyframes swoop {
+  from: {left:200px}
+  to: {left:0px}
+}
+
+.iov {
+  animation-name:swoop;
+  animation-duration:2s;
+  position:relative;
+}
