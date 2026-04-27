@@ -34,6 +34,15 @@ body {
   font-family:"Roboto Condensed";
 }
 
+a.content {
+  text-decoration:none;
+  color: rgb(252,211,209);
+}
+
+a.content:hover {
+  color:rgb(232,136,0);
+}
+
 @keyframes swoop {
   0% {right:1000px;}
   100% {right:0px}
