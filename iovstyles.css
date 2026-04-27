@@ -34,12 +34,12 @@ body {
   font-family:"Roboto Condensed";
 }
 
-a {
+a.content {
   text-decoration:none;
   color: rgb(252,211,209);
 }
 
-a:hover {
+a.content:hover {
   color:rgb(232,136,0);
 }
 
