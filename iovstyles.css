@@ -34,13 +34,15 @@ body {
   font-family:"Roboto Condensed";
 }
 
-a.content {
+.lynk {
   text-decoration:none;
   color: rgb(255, 206, 69);
+  font-family:"Roboto Condensed";
 }
 
-a.content:hover {
+.lynk:hover {
   color:rgb(232,136,0);
+  font-family:"Roboto Condensed";
 }
 
 @keyframes swoop {
